@@ -1,6 +1,9 @@
 # GEO_CLASS — Experimento Público de Geometría Oculta
 
 Repositorio experimental del marco **GEO** (*Hidden Geometry Framework*) aplicado al crecimiento cosmológico mediante una versión modificada de **CLASS**.
+## Referencia y Procedencia
+Este repositorio es una reconstrucción limpia, organizada y traducida al español del marco original 
+[GEO (Hidden Geometry Framework)] https://github.com/LeoTorreblanca/GEO-hidden-geometry-framework . 
 
 ---
 

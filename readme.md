@@ -60,7 +60,7 @@ Con el tiempo, el enfoque se trasladó a contrastar estas relaciones contra dato
 
 El estudio **GEO_CLASS** se divide en cinco etapas diseñadas para responder preguntas específicas sobre la estructura geométrica en el crecimiento cosmológico. El flujo completo es:
 
-```text
+text
 GEO 01 → Prueba estadística principal
 GEO 02 → Análisis de nodos geométricos
 GEO 03 → Prueba fuerte de arquitectura

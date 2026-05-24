@@ -349,7 +349,7 @@ Aunque no constituye una validación física definitiva, la geometría observada
 ## Ejecución del Laboratorio
 Todo el entorno experimental puede ejecutarse de forma secuencial:
 
-```bash
+bash
 python scripts/geo_01_master_test.py
 python scripts/geo_02_geometric_node_analysis.py
 python scripts/geo_03_architecture_strong_test.py

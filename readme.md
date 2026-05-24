@@ -65,7 +65,7 @@ GEO 01 → Prueba estadística principal
 GEO 02 → Análisis de nodos geométricos
 GEO 03 → Prueba fuerte de arquitectura
 GEO 04 → Ley predictiva geométrica
-GEO 05 → Puente geométrico final```
+GEO 05 → Puente geométrico final
 
 Cada paso genera automáticamente:
 

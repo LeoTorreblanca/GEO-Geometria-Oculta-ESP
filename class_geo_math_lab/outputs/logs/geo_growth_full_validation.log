@@ -1,0 +1,8 @@
+GEO_CLASS full cosmological validation completed.
+Pantheon supernovae: 1701
+BAO points: 13
+Delta chi2 GEO-LCDM = -7.560772196617336
+Delta AIC GEO-LCDM  = -5.560772196617336
+Delta BIC GEO-LCDM  = -0.09913180440889846
+Summary CSV: /home/leone/PROYECTO_GEO_PUBLICO/class_geo_math_lab/outputs/csv/geo_growth_full_validation_summary.csv
+fσ8 prediction CSV: /home/leone/PROYECTO_GEO_PUBLICO/class_geo_math_lab/outputs/csv/geo_growth_full_validation_fs8_predictions.csv

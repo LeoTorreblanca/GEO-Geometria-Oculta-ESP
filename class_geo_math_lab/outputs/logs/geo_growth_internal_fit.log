@@ -1,0 +1,6 @@
+GEO_CLASS internal growth fit completed.
+Delta chi2 GEO-LCDM = -9.515260940842301
+Delta AIC GEO-LCDM  = -7.5152609408423
+Delta BIC GEO-LCDM  = -6.25716440282082
+CSV summary: /home/leone/PROYECTO_GEO_PUBLICO/class_geo_math_lab/outputs/csv/geo_growth_internal_fit_summary.csv
+CSV predictions: /home/leone/PROYECTO_GEO_PUBLICO/class_geo_math_lab/outputs/csv/geo_growth_internal_fit_predictions.csv

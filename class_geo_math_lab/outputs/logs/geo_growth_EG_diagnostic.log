@@ -1,0 +1,5 @@
+GEO_CLASS predictive E_G diagnostic completed.
+CSV summary: /home/leone/PROYECTO_GEO_PUBLICO/class_geo_math_lab/outputs/csv/geo_growth_EG_diagnostic_summary.csv
+CSV table: /home/leone/PROYECTO_GEO_PUBLICO/class_geo_math_lab/outputs/csv/geo_growth_EG_diagnostic_table.csv
+CSV ratios: /home/leone/PROYECTO_GEO_PUBLICO/class_geo_math_lab/outputs/csv/geo_growth_EG_diagnostic_ratios.csv
+Interpretation: fs8_ratio < 1 indicates suppressed growth; EG_ratio > 1 indicates a predicted lensing/growth deviation under Sigma=1.

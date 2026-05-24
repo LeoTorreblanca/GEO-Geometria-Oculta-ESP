@@ -1,0 +1,6 @@
+GEO_CLASS external growth engine completed.
+CLASS background was kept standard; GEO was applied as external growth source.
+Delta chi2 GEO-LCDM = -43.383847540611924
+Summary CSV: /home/leone/PROYECTO_GEO_PUBLICO/class_geo_math_lab/outputs/csv/geo_external_growth_engine_summary.csv
+Predictions CSV: /home/leone/PROYECTO_GEO_PUBLICO/class_geo_math_lab/outputs/csv/geo_external_growth_engine_predictions.csv
+Curves CSV: /home/leone/PROYECTO_GEO_PUBLICO/class_geo_math_lab/outputs/csv/geo_external_growth_engine_curves.csv

@@ -367,19 +367,6 @@ Repositorio experimental del marco **GEO** (*Hidden Geometry Framework*) aplicad
 
 ---
 
-## Introducción
-
-Mi nombre es **Leonel Torreblanca**. Soy desarrollador de software especializado en sistemas *custom*, SQL, PL/SQL, JavaScript y Oracle APEX. Mi enfoque principal es el análisis lógico y la construcción de sistemas complejos, aunque gran parte de este proyecto nace de un interés personal por la matemática, la geometría estructural y el comportamiento físico.
-
-### La génesis de GEO
-GEO no pretende reemplazar modelos cosmológicos existentes ni erigirse como una teoría física completa. El proyecto nace de una intuición simple: **la naturaleza parece operar mediante estructuras sutiles, eficientes y geométricamente estables.**
-
-La pregunta fundamental que guía este trabajo es:
-> *¿Y si la naturaleza no utiliza el 100% de sus grados de libertad de forma activa?*
-> *¿Y si parte de la estructura gravitacional observable fuera geométricamente complementaria?*
-
----
-
 ## Evolución del Proyecto
 
 ### 1. GDD — Geometría Dual Dinámica

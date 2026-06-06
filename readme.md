@@ -367,43 +367,6 @@ Repositorio experimental del marco **GEO** (*Hidden Geometry Framework*) aplicad
 
 ---
 
-## Evolución del Proyecto
-
-### 1. GDD — Geometría Dual Dinámica
-Las primeras formulaciones se agruparon bajo **GDD**. La idea central era que la naturaleza opera mediante una dualidad entre una región geométricamente activa y otra complementaria.
-
-### 2. GEO — Hidden Geometry Framework
-Con el tiempo, el enfoque se trasladó a contrastar estas relaciones contra datos reales de cosmología observacional (como $S_8$, $f\sigma_8$, BAO, Pantheon+SH0ES y *weak lensing*), evolucionando hacia el marco **GEO**.
-
----
-
-## GEO_CLASS: El Laboratorio Experimental
-
-**GEO_CLASS** es el laboratorio principal del proyecto, construido sobre una modificación pública y reproducible de *CLASS*. Introduce un operador geométrico efectivo sobre el crecimiento perturbativo cosmológico.
-
-### Parámetros Principales
-- `geo_xi`: Fracción geométrica activa.
-- `geo_mu`
-- `geo_mode`
-
-### Relaciones Operativas
-- $f_{out} = 1 - geo\_xi$
-- $\eta = geo\_xi^2$
-
----
-
-## Estructura Experimental
-
-El estudio **GEO_CLASS** se divide en cinco etapas diseñadas para responder preguntas específicas sobre la estructura geométrica en el crecimiento cosmológico. Cada etapa genera automáticamente los datos necesarios en `resultados/csv/`, `resultados/logs/` y `docs/plots/`.
-
-### Etapas del Flujo
-1. **GEO 01:** Prueba estadística principal.
-2. **GEO 02:** Análisis de nodos geométricos.
-3. **GEO 03:** Prueba fuerte de arquitectura.
-4. **GEO 04:** Ley predictiva geométrica.
-5. **GEO 05:** Puente geométrico final.
-
----
 
 ## Conclusión Final
 
